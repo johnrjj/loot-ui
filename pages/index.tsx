@@ -90,9 +90,14 @@ Backpack`}
             width={538}
           />
         </div>
-        <div>
+        <div style={{ marginBottom: 64 }}>
           <a target="_blank" rel="noreferrer" href={lootImgSrc}>
             View loot image
+          </a>
+        </div>
+        <div>
+          <a target="_blank" rel="noreferrer" href={'https://github.com/johnrjj/loot-ui'}>
+            github
           </a>
         </div>
       </main>
